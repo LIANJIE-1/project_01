@@ -1,0 +1,4 @@
+#忽略index.css文件
+index.css
+#忽略test目录下面的文件
+test/
